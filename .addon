@@ -1,0 +1,18 @@
+{
+  "Title": "Surf Map",
+  "Type": "map",
+  "Org": "local",
+  "Ident": "surf_map",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "GameSupport": [
+      "local.surf"
+    ]
+  }
+}
